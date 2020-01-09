@@ -8,4 +8,4 @@ All credit goes to Radeon Labs technical staff.
 This repository exists for historic purposes and will not receive any further development.
 For an updated and actively developed version of the game engine, see https://github.com/gscept/nebula.
 
-The original SDK can be downloaded from [here](https://mega.nz/#!PIYh1TzI!Xg7mZOZfk9MylB2Vu_XU7pyf4CxkfsIzD9RkbgOWe_4).
+The original SDK can be downloaded [here](https://mega.nz/#!PIYh1TzI!Xg7mZOZfk9MylB2Vu_XU7pyf4CxkfsIzD9RkbgOWe_4).
